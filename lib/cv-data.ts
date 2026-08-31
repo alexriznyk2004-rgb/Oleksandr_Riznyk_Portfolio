@@ -18,7 +18,7 @@ export const experience = [
       'Developed 3D models and concepts for new furniture products, including modeling from measurements and 3D scan data.',
       'Designed furniture showroom interiors, creating functional zones tailored to different collections, from concept and visualization to technical drawings.',
       'Prepared interior design documentation, including furniture layouts, lighting plans, built-in furniture, cabinetry, and wall finishing plans.',
-      'Provided design revisions and remote consultations during renovation and furniture installation.',
+      'Provided design revisions and remote consultations during renovation and furniture installation. BLA BLA BLA',
     ],
   },
   {
