@@ -27,8 +27,8 @@ export const experience = [
     title: '3D Visualizer & Interior Designer',
     period: 'October 2024 – May 2025',
     bullets: [
-      'Created high-end photorealistic visualizations of residential and commercial interiors, focusing on realistic materials, lighting, composition, and overall atmosphere.',
-      'Developed interior design concepts based on project requirements, functionality, aesthetics, and architectural characteristics.',
+      'Produced high-end photorealistic visualizations of residential and commercial interiors, focusing on realistic materials, lighting, composition, and overall atmosphere.',
+      'Designed interior concepts based on project requirements, functionality, aesthetics, and architectural characteristics.',
       'Created detailed 3D models of interiors, furniture, architectural elements, and custom features for visualization and presentation.',
       'Selected materials, finishes, colors, furniture, and decorative elements to develop cohesive interior concepts.',
       'Prepared design presentations and visual materials to communicate concepts and support client decision-making.',
